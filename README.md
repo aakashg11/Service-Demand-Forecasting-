@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # AI-Powered Aftersales Service Demand Forecasting & Client Insight Dashboard
 
 An end-to-end ML pipeline and interactive dashboard for automotive aftersales analytics — built to demonstrate demand forecasting, customer churn prediction, and lifetime value segmentation.
